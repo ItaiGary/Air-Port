@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Landings</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_by_airport">Search By Airport</string>
+    <string name="search_by_number">Search By Number</string>
+    <string name="search_by_city">Search By City</string>
+    <string name="delayed">Delayed</string>
+    <string name="image">image</string>
+    <string name="landed">Landed</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940697985578",
+    "firebase_url": "https://landings-dbfe6.firebaseio.com",
+    "project_id": "landings-dbfe6",
+    "storage_bucket": "landings-dbfe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940697985578:android:d61c91cd7273b5e4b05953",
+        "android_client_info": {
+          "package_name": "com.example.landings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940697985578-9ljmt7u6t2nlfq7sdpg65riahhacv5lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHM4NdDG7UjiVh7kW_QfZKrfj4ufXyu4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940697985578-9ljmt7u6t2nlfq7sdpg65riahhacv5lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
